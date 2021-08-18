@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cython
+  - ipython
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - mpi4py
+  - networkx
+  - pandas
+  - scikit-image
+  - scikit-learn
+  - sympy
+  - bokeh
