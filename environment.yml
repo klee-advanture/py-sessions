@@ -11,18 +11,18 @@ dependencies:
   - mpi4py
   - networkx
   - pandas
-  - scikit-image
-  - scikit-learn
-  - sympy
-  - colorcet
-  - scipy
-  - notebook
-  - bokeh>=2.1
-  - selenium
-  - datashader
-  - flask
-  - firefox
-  - geckodriver
-  - holoviews
-  - hvplot
+  # - scikit-image
+  # - scikit-learn
+  # - sympy
+  # - colorcet
+  # - scipy
+  # - notebook
+  # - bokeh>=2.1
+  # - selenium
+  # - datashader
+  # - flask
+  # - firefox
+  # - geckodriver
+  # - holoviews
+  # - hvplot
   - jupyter_contrib_nbextensions
